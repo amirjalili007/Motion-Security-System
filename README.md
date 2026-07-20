@@ -169,7 +169,7 @@ Then edit the following fields:
 
 ### Telegram Alert
 
-![Telegram Alert](screenshots/telegram_alert.png)
+![Telegram Alert](screenshots/telegram_alert.jpg)
 
 ---
 
