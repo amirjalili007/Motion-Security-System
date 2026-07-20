@@ -72,8 +72,7 @@ Motion-Security-System
 │
 ├── screenshots/
 │   ├── main_window.png
-│   ├── telegram_alert.png
-│   └── motion_detected.png
+│   └── telegram_alert.png
 │
 ├── CAM_captured/
 └── SCR_captured/
