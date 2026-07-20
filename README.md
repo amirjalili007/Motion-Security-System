@@ -25,7 +25,6 @@ The application monitors a webcam in real time and automatically captures images
 
 ## 📸 Preview
 
-> Add screenshots of the application here.
 
 ![Main Window](screenshots/main_window.png)
 
