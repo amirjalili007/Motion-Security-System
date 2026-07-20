@@ -87,7 +87,7 @@ Motion-Security-System
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Motion-Security-System.git
+git clone https://github.com/amirjalili007/Motion-Security-System.git
 ```
 
 Open the project
